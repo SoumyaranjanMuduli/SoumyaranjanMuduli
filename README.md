@@ -4,14 +4,14 @@
 Email Me 👉 ✉️ **soumyaranjanliku16@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
-*🔭 *I’m currently working on:* Production-grade Data Analytics & BI systems at RSWebtechsoft
-*🌱 *I’m currently learning:* Cloud platforms (AWS), Spark, and advanced Time Series Forecasting
-*👯 *I’m looking to collaborate on:* Data Analytics, Power BI Dashboard projects, Python ETL pipelines, and AI/ML model development
-*🤔 *I’m looking for help with:* Cloud data engineering (AWS, Azure) and advanced ML deployment
-*💬 *Ask me about:* Collaboration, Tech Support, Python · SQL · Power BI · DAX · ETL Pipelines · Machine Learning · Web Scraping
-*📫 *How to reach me:* soumyaranjanliku16@gmail.com
-*😄 *Pronouns:* Soumya
-*⚡ *Fun fact:* I Love Research and Tech Love Me
+🔭 *I’m currently working on:* Production-grade Data Analytics & BI systems at RSWebtechsoft
+🌱 *I’m currently learning:* Cloud platforms (AWS), Spark, and advanced Time Series Forecasting
+👯 *I’m looking to collaborate on:* Data Analytics, Power BI Dashboard projects, Python ETL pipelines, and AI/ML model development
+🤔 *I’m looking for help with:* Cloud data engineering (AWS, Azure) and advanced ML deployment
+💬 *Ask me about:* Collaboration, Tech Support, Python · SQL · Power BI · DAX · ETL Pipelines · Machine Learning · Web Scraping
+📫 *How to reach me:* soumyaranjanliku16@gmail.com
+😄 *Pronouns:* Soumya
+⚡ *Fun fact:* I Love Research and Tech Love Me
 
 
 ## 🌐 Socials:
