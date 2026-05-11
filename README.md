@@ -1,6 +1,17 @@
-## Hi👋, I'm Soumya Ranjan
+# 💫 Hi 👋, I'm Soumya Ranjan
+*A passionate Data Analytics || Python Developer || AI/Ml Devloper from India*
+
+Email Me 👉 ✉️ **soumyaranjanliku16@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+
 # 💫 About Me:
-🔭 I'm currently working on<br>Production-grade Data Analytics & BI systems at RSWebtechsoft (Diagnosure Healthcare Platform)<br>👥 I'm looking to collaborate on<br>Data Analytics, Power BI Dashboard projects, Python ETL pipelines, and ML model development<br>🤝 I'm looking for help with<br>Cloud data engineering (AWS, Azure) and advanced ML deployment<br>🌱 I'm currently learning<br>Cloud platforms (AWS), Spark, and advanced Time Series Forecasting<br>💬 Ask me about<br>Python · SQL · Power BI · DAX · ETL Pipelines · Machine Learning · Web Scraping<br>⚡ Fun fact<br>I once scraped and structured 1,000,000+ political records to analyze election swing patterns across India!
+*🔭 *I’m currently working on:* Production-grade Data Analytics & BI systems at RSWebtechsoft
+*🌱 *I’m currently learning:* Cloud platforms (AWS), Spark, and advanced Time Series Forecasting
+*👯 *I’m looking to collaborate on:* Data Analytics, Power BI Dashboard projects, Python ETL pipelines, and AI/ML model development
+*🤔 *I’m looking for help with:* Cloud data engineering (AWS, Azure) and advanced ML deployment
+*💬 *Ask me about:* Collaboration, Tech Support, Python · SQL · Power BI · DAX · ETL Pipelines · Machine Learning · Web Scraping
+*📫 *How to reach me:* soumyaranjanliku16@gmail.com
+*😄 *Pronouns:* Soumya
+*⚡ *Fun fact:* I Love Research and Tech Love Me
 
 
 ## 🌐 Socials:
